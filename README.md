@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎉 Yooo-hooo! It’s SHUBHAMM — your friendly neighborhood code-slinger 🕸️💻  <br>🌟 Just a dev who turns ☕ into ✨frontend magic  <br>🛠️ Currently building weirdly fun stuff with React Native + AI  <br>🤝 Open to collabs — especially if your idea sounds slightly unhinged 👀  <br>🌱 Learning full-stack sorcery (aka MERN + some AI wizardry)  <br>😅 Fun fact: My first website was 99% chaos, 1% CSS — now it's just 90% 👻<br>
+🕸️ Yooo-hooo! I'm SHUBHAMM — your friendly neighborhood
+🌟 Just a dev who turns ☕ into ✨frontend magic  <br>🛠️ Currently building weirdly fun stuff with React Native + AI  <br>🤝 Open to collabs — especially if your idea sounds slightly unhinged 👀  <br>🌱 Learning full-stack sorcery (aka MERN + some AI wizardry)  <br>😅 Fun fact: My first website was 99% chaos, 1% CSS — now it's just 90% 👻<br>
 
 
 ## 🌐 Socials:
