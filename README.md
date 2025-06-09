@@ -1,4 +1,4 @@
-# 🕸 Yooo-hooo! It’s SHUBHAMM — your friendly neighborhood code-slinger 🕸️💻
+# 🕸 Yooo-hooo! It’s SHUBHAMM 
 
 🌟 Just a dev who turns ☕ into ✨frontend magic  <br>  
 🛠️ Currently building weirdly fun stuff with React Native + AI  <br>  
