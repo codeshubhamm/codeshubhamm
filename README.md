@@ -1,4 +1,4 @@
-# 🕸 Yooo-hooo! It’s ME SHUBHAMM 
+# 👾 Hola Amigo! It’s ME SHUBHAMM 
 
 🌟 Just a dev who turns ☕ into ✨frontend magic  <br>  
 🛠️ Currently building weirdly fun stuff with React Native + AI  <br>  
